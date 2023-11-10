@@ -60,7 +60,8 @@ Here are some screenshots from the Tareeq app:
 
 If you need assistance or have any questions, please feel free to contact our support team at ` apptareeq@gmail.com `.
 
-
+## Authors
+* **Mohamed kamel**
 
 `  We hope Tareeq enriches your spiritual experience and supports your daily Islamic practices. May your journey be blessed and guided by the app's features. `
 
