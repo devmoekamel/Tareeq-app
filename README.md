@@ -1,6 +1,6 @@
 # Tareeq - Your Islamic Companion
 
-Tareeq is an Islamic app designed to provide a comprehensive set of features to support the spiritual journey of Muslims. With Tareeq, you can easily access prayer times, Azkar (dua'aa), random Quranic Ayah, live streams from Makkah and Madina, and a radio for Quran reciters.
+Tareeq is an Islamic app designed to provide a comprehensive set of features to support the spiritual journey of Muslims. Developed using Flutter, Tareeq offers a seamless and user-friendly experience. With Tareeq, you can easily access prayer times, Azkar (dua'aa), random Quranic Ayah, live streams from Makkah and Madina, and a radio for Quran reciters.
 
 ## Features:
 
@@ -62,5 +62,5 @@ If you need assistance or have any questions, please feel free to contact our su
 
 
 
-## We hope Tareeq enriches your spiritual experience and supports your daily Islamic practices. May your journey be blessed and guided by the app's features.
+`  We hope Tareeq enriches your spiritual experience and supports your daily Islamic practices. May your journey be blessed and guided by the app's features. `
 
