@@ -58,7 +58,7 @@ Here are some screenshots from the Tareeq app:
 
 ## Support
 
-If you need assistance or have any questions, please feel free to contact our support team at [apptareeq@gmail.com](apptareeq@gmail.com).
+If you need assistance or have any questions, please feel free to contact our support team at ` apptareeq@gmail.com `.
 
 
 
