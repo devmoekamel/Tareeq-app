@@ -42,9 +42,7 @@ Here are some screenshots from the Tareeq app:
 </div>
 
 <div align="center">
-  <p>Caption 1</p>
-  <p>Caption 2</p>
-  <p>Caption 3</p>
+
 </div>
 
 <div align="center">
@@ -54,9 +52,7 @@ Here are some screenshots from the Tareeq app:
 </div>
 
 <div align="center">
-  <p>Caption 4</p>
-  <p>Caption 5</p>
-  <p>Caption 6</p>
+
 </div>
 
 
